@@ -1,0 +1,12 @@
+{
+    "name": "discord-oauth2-login",
+    "version": "1.0.0",
+    "description": "A simple node js express app for discord oauth2 login for your website.",
+    "private": true,
+    "main": "app.js",
+    "dependencies": {
+        "express": "*",
+        "node-fetch": "^2.6.1",
+        "url": "^0.11.0"
+    }
+}
